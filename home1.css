@@ -1,0 +1,34 @@
+body{
+	background-image: url(businessman-catching-taxi-city.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+    margin: 0   
+}
+
+
+button{
+	float: right;
+    padding: 10px 20px;
+    
+    background-color: yellow;
+    margin: 10px;
+    font-weight: bold;
+}
+footer{
+	text-align: center;
+	background-color:black;
+	color: yellow;
+	bottom: 0;
+	font-size:20px;
+	width: 100%;
+	height: 45px;
+	margin: 0;
+	overflow: hidden;
+}
+table{
+	background-color: white;
+	font-size: 20px;
+}
+tr{
+	padding: 30px;
+}
